@@ -4,7 +4,7 @@ import os
 
 
 # Enter your API token here
-token = "1eaef0c009d4493c7f56ed423d8664f9_a864915ae61a09310edca8249aebf5c2"
+token = ""#put api key here
 
 
 root = tk.Tk()
