@@ -7,7 +7,7 @@ entries = {
     "ids": ["kojis-room", "downstairs-bathroom", "lamp"]
 }
 
-token = "1eaef0c009d4493c7f56ed423d8664f9_a864915ae61a09310edca8249aebf5c2"
+token = "" #put you api key here
 url = "https://api-v2.voicemonkey.io/trigger?token=" + token + "&device="
 
 def my_callback(channel):
