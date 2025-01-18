@@ -2,7 +2,7 @@ import requests
 import RPi.GPIO as GPIO
 import time
 
-token = "1eaef0c009d4493c7f56ed423d8664f9_a864915ae61a09310edca8249aebf5c2"
+token = "" #put your api key here
 pins = [13, 19, 26]
 ids = ["downstairs-bedroom", "downstairs-bathroom", "lamp"]
 
